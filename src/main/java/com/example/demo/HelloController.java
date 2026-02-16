@@ -8,7 +8,8 @@ public class HelloController {
 
     @GetMapping("/")
     public String hello() {
-        return "this is reshma's small java application";
+        return "this is the javafile ";
     }
 }
+
 
